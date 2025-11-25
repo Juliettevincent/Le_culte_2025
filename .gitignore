@@ -1,0 +1,17 @@
+# TouchDesigner autosaves et backups
+*.toe.backup
+*.toe.autosave
+*.toe~*
+
+# Temp files
+*.tmp
+*.dialog
+*.tdp
+
+# Caches
+cache/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
